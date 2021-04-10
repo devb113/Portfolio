@@ -49,7 +49,7 @@ a{
     cursor: pointer;
 }
 header{
-    background: url("bg.jpg") center fixed;
+    background: url("Images/bg.jpg") center fixed;
     background-size: cover;
     height: 800px;
 }
