@@ -84,6 +84,8 @@ img[alt="background"]{
     position: absolute;
     margin-left: -121px;
     border-radius: 10px;
+    box-shadow: 5px 10px #888888;
+
 }
 img[alt="self"]{
     z-index: 3;
@@ -94,6 +96,8 @@ img[alt="self"]{
     height: 287px;
     width: 478px;
     border-radius: 10px;
+    box-shadow: 5px 10px #888888;
+
 }
 /*Portfolio*/
 #portfolio{
