@@ -83,6 +83,7 @@ img[alt="background"]{
     z-index: 1;
     position: absolute;
     margin-left: -121px;
+    border-radius: 10px;
 }
 img[alt="self"]{
     z-index: 3;
@@ -90,7 +91,9 @@ img[alt="self"]{
     position: relative;
     bottom: -65px;
     left: 105px;
-    height: 293px;
+    height: 287px;
+    width: 478px;
+    border-radius: 10px;
 }
 /*Portfolio*/
 #portfolio{
